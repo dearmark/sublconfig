@@ -20,6 +20,7 @@
 		"SublimeLinter",
 		"Tag",
 		"Terminal",
-		"ToggleQuotes"
+		"ToggleQuotes",
+		"View In Browser"
 	]
 }

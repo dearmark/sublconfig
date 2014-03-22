@@ -4,8 +4,8 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
