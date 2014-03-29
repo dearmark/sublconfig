@@ -3,6 +3,7 @@
 	"extensions":
 	[
 		"mdown",
-		"txt"
+		"txt",
+		"md"
 	]
 }

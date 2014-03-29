@@ -2,7 +2,6 @@
 	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
 	"extensions":
 	[
-		"mmd",
-		"md"
+		"mmd"
 	]
 }

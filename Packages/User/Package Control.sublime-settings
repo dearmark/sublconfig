@@ -8,6 +8,7 @@
 		"CTags",
 		"DocBlockr",
 		"Emmet",
+		"ERB Snippets",
 		"Git",
 		"jQuery",
 		"JsFormat",
@@ -21,6 +22,7 @@
 		"Tag",
 		"Terminal",
 		"ToggleQuotes",
-		"View In Browser"
+		"View In Browser",
+		"Zeal"
 	]
 }
